@@ -1,0 +1,11 @@
+{
+  "name": "electron-browser",
+  "version": "0.0.1",
+  "description": "Webbrowser built on electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sushy",
+  "license": "GPL-3.0"
+}
