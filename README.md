@@ -1,3 +1,3 @@
 # electron-browser
 
-Not final nane
+Not final name
